@@ -31,4 +31,4 @@ For generating results for the multi-class scenario, use __-m__ instead of __-b_
 
 Copyright (c) 2018 [Hridoy Sankar Dutta, Aditya Chetan, Brihi Joshi, Tanmoy Chakraborty]
 
-For license information, see [LICENSE][LICENSE] or http://mit-license.org
+For license information, see [LICENSE](LICENSE) or http://mit-license.org
