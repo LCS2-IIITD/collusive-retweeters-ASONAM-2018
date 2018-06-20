@@ -27,5 +27,8 @@ python classifiers.py -b
 This will generate results for binary classification as mentioned in the paper.
 For generating results for the multi-class scenario, use __-m__ instead of __-b__.
 
-# Licence 
+# License 
 
+Copyright (c) 2018 [Hridoy Sankar Dutta, Aditya Chetan, Brihi Joshi, Tanmoy Chakraborty]
+
+For license information, see [LICENSE][LICENSE] or http://mit-license.org
