@@ -6,7 +6,7 @@ This is the code and the dataset for the paper titled
 
 accepted at [The IEEE/ACM International Conference on Social Networks Analysis and Mining (ASONAM 2018)](http://asonam.cpsc.ucalgary.ca/2018/).
 
-If you end up using this code, please cite the following paper - 
+If you end up using this code or the data, please cite the following paper - 
 ```
 @misc{1806.08979,
 Author = {Hridoy Sankar Dutta and Aditya Chetan and Brihi Joshi and Tanmoy Chakraborty},
