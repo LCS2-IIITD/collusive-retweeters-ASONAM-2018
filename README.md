@@ -2,7 +2,7 @@
 
 This is the code and the dataset for the paper titled 
 
->[Retweet Us, We Will Retweet You: Spotting Collusive Retweeters Involved in Blackmarket Services. *Hridoy Sankar Dutta, Aditya Chetan, Brihi Joshi, Tanmoy Chakraborty*](https://arxiv.org/abs/1806.08979)
+>[Retweet Us, We Will Retweet You: Spotting Collusive Retweeters Involved in Blackmarket Services. *Hridoy Sankar Dutta, Aditya Chetan\*, Brihi Joshi\*, Tanmoy Chakraborty*](https://arxiv.org/abs/1806.08979)
 
 accepted at [The IEEE/ACM International Conference on Social Networks Analysis and Mining (ASONAM 2018)](http://asonam.cpsc.ucalgary.ca/2018/).
 
