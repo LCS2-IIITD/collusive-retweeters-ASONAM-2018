@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/LCS2-IIITD/collusive-retweeters-ASONAM-2018.svg)](http://hits.dwyl.io/LCS2-IIITD/collusive-retweeters-ASONAM-2018)
 # Retweet Us, We Will Retweet You: Spotting Collusive Retweeters Involved in Blackmarket Services
 
 This is the code and the dataset for the paper titled 
